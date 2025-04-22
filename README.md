@@ -18,7 +18,7 @@ This project fine-tunes a Flan-T5-base model to generate personalized greeting m
 
 ---
 
-## 🧠 Highlights
+## Highlights
 
 - **Model**: [Flan-T5-base](https://huggingface.co/google/flan-t5-base)
 - **Training Samples**: 84 total (birthday, anniversary, encouragement, thank-you)
