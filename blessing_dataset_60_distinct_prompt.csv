@@ -1,0 +1,115 @@
+Category,Level,Prompt,Target,
+Birthday,1,Send a birthday greeting.,Happy birthday! Wishing you lots of smiles today.,
+Birthday,2,Craft a birthday message for your close friend Tom.,Happy birthday Tom! You're an amazing friend and I'm lucky to have you.,
+Birthday,3,"Write a meaningful birthday message for Tom, showing gratitude for his support during your toughest moments.","Happy Birthday, Tom. In my darkest moments, you showed up — not with grand gestures, but with quiet strength, late-night check-ins, and unwavering presence. You reminded me I wasn’t alone. I’ll never forget that.May this year bring you the same peace, love, and loyalty you’ve given me — and so much more.",
+Birthday,1,Write a message for a birthday.,"Today, the flowers are bloomier, the sun is sunnier and life is awesomer — all because it’s your birthday!
+",
+Birthday,2,Create an birthday message for your wife.,"Happy bithday, my love. Hope your birthday’s as happy as you make me.",
+Birthday,3,Compose a touching birthday message for your wife that reflects on your time together and shared memories.,"Happy Birthday, my love.
+Every year with you feels like a beautiful chapter in a story I never want to end. From quiet mornings to late-night talks, laughter on ordinary days to the comfort of simply being together — you’ve filled my life with joy, depth, and meaning.
+Thank you for every memory we’ve built and every moment we still have ahead.
+I love you — more every day.",
+Birthday,1,Write a message for a birthday.,Happy Bithday! Wishing you the biggest slice of happy today.,
+Birthday,2,Write a birthday message for your daughter.,"From the moment you were placed in my arms, you snuggled right into my heart.Happy Birthday, my little girl.",
+Birthday,3,"Compose a birthday message for your daughter, saying that you are proud of her.","Happy Birthday, my sweet girl.
+Watching you grow into the person you are today has been one of the greatest joys of my life. I’m so proud of your kindness, your courage, and the way you stay true to yourself.
+No matter how old you get, you’ll always be my little girl — and I’ll always be your biggest fan.
+Love you endlessly.",
+Birthday,1,Write a message for a birthday.,Wishing you all the happiness someone as nice as you deserves.Happy Bithday!,
+Birthday,2,Create a birthday message for your grandma.,"Grandma Sue, hope your day is as amazing as you. Love you!",
+Birthday,3,"Create a birthday message for your grandma, thanking her for her delicious cookies that can always warm your heart.","Happy Birthday, Grandma.
+Your cookies have a magic no recipe could ever capture — they taste like love, comfort, and everything good in the world. No matter how old I get, they’ll always warm my heart just like your hugs do.
+Thank you for filling our lives with sweetness, both in the kitchen and far beyond.
+Wishing you a day as lovely as you are.",
+Birthday,1,Write a  birthday message.,Happy birthday! Hope it’s your happiest birthday ever. I love you!,
+Birthday,2,"Write a birthday message for your girlfriend, Lesley.","Happy Birthday, Lesley.
+I’m so grateful for you — for your love, your light, and every moment we’ve shared. Here’s to many more. I love you.",
+Birthday,3,"Compose a touching birthday message for your girlfriend, Lesley,  that reflects on your time together and shared memories.","Happy Birthday, Lesley.
+From late-night talks to quiet mornings, every moment with you is a memory I treasure.
+Thank you for your love, your laughter, and simply being you.
+Here’s to all we’ve shared — and all that’s still to come.
+I love you, always.",
+Birthday,1,"Write a short, friendly birthday message","Happy Birthday! Hope your day is full of laughter, good food, and people you love.",
+Birthday,2,Write a thoughtful birthday message to your close friend Jess,"Happy Birthday, Jess! You’ve always been the friend who shows up, listens without judging, and turns even bad days into stories we laugh about later. I’m so lucky to have you in my life. Here’s to another year of memories together!",
+Birthday,3,"Write a heartfelt birthday message to your best friend Jess on her 27th birthday, including a memory from junior year when you both walked in the rain for ice cream, and emphasizing her loyalty and emotional support.","Happy 27th Birthday, Jess! I still remember that night junior year when we walked across town just for ice cream in the rain — soaked, freezing, and laughing the whole way. That’s the kind of magic you bring into people’s lives: spontaneous joy, fierce loyalty, and warmth even in the messiest moments. Thank you for showing up when I didn’t even know how to ask. I hope this year brings you half the love and light you’ve given me — which would already be a lot. Love you forever.",
+Birthday,1,"Write a general, polite birthday message",Happy Birthday! Wishing you continued success and a year full of exciting opportunities.,
+Birthday,2,Write a respectful birthday message to your manager Amanda.,,"Happy Birthday, Amanda! Your calm leadership and thoughtful feedback have made such a difference in how I see growth — not just in work, but in life. Wishing you a wonderful year ahead."
+Birthday,3,"Write a detailed and sincere birthday message to your boss Amanda, referencing a memory from your first week at work when she gave you encouragement instead of criticism. Emphasize how her leadership has shaped your growth.","Happy Birthday, Amanda! I still remember my first week on the team, when I nervously presented that messy deck — and instead of criticism, you gave me clarity, encouragement, and a path forward. That moment shaped how I approach every challenge now.
+You don’t just manage — you mentor, empower, and inspire. Thank you for believing in your people. I hope your year ahead is as generous and grounded as you are.",
+Anniversary,1,Create an anniversary message.,Happy anniversary! Wishing you many more years of love and happiness ahead.,
+Anniversary,2,Write a simple anniversary message for a couple.,Happy anniversary to two wonderful friends! Your love and laughter are truly inspiring — here’s to many more years of joy together.,
+Anniversary,3,"Write a personalized anniversary message to your friends Alice and Mark, celebrating their 10th anniversary and referencing their Sunday brunch tradition and shared laughter.","Happy 10th anniversary, Alice and Mark! From your cozy Sunday brunches to the way you still make each other laugh, your love is something truly special. So proud to witness your journey.",
+Anniversary,1,Create an anniversary message.,Congratulations on another year of love and togetherness. Happy anniversary!,
+Anniversary,2,Write a warm and grateful wedding anniversary message to your parents.,"Happy anniversary, Mom and Dad! Your love, patience, and partnership have been the most beautiful example I could ever ask for.",
+Anniversary,3,"Write a touching 30th wedding anniversary message to your parents, reflecting on road trips, quiet dinners, and their example of enduring love.","Happy 30th anniversary, Mom and Dad! From family road trips to quiet dinners at home, your bond has shaped the heart of our family. Thank you for showing me what lasting love looks like.",
+Anniversary,1,Create an anniversary message.,"Happy anniversary! Here’s to another year of love, laughter, and growing together.",
+Anniversary,2,Write a heartfelt anniversary message from a husband to his wife,"Happy anniversary, my love. Thank you for being my home, my heart, and my calm through every storm. I’m so lucky to have you by my side.",
+Anniversary,3,"Write a meaningful anniversary message from a husband to his wife, celebrating their 7th anniversary and referencing their first apartment and shared life changes.","Happy 7th anniversary, love. From that tiny apartment we first shared to every new chapter we’ve stepped into — you’ve been my constant, my joy, my best decision. I’d choose this life with you again and again.",
+Anniversary,1,Create an anniversary message.,Happy work anniversary! Your dedication and growth are truly commendable.,
+Anniversary,2,Write a friendly work anniversary message for your colleague Sarah.,"Happy work anniversary, Sarah! It’s been a pleasure working alongside you — your professionalism and positive energy make all the difference.",
+Anniversary,3,"Write a detailed work anniversary message for a colleague named Sarah who has worked for 5 years, mentoring others and offering leadership and support.","Congrats on 5 years, Sarah! Your mentorship, kindness, and calm leadership have shaped so many of us. Here’s to more achievements and coffee breaks together!",
+Anniversary,1,Create an anniversary message.,Happy anniversary! So grateful for all the memories we’ve shared.,
+Anniversary,2,Write a heartfelt friendship anniversary message to your best friend.,"Happy anniversary to my best friend! From late-night talks to ridiculous adventures, you’ve made life brighter every step of the way.",
+Anniversary,3,"Write a specific anniversary message to your best friend Sophie, celebrating 5 years of friendship that started in a dorm room, including studying together and emotional support.","Can you believe it’s been 5 years since we met in our dorm room? From cramming for finals to laughing till we cried, you’ve been my rock. Happy friendship anniversary, Sophie — here’s to many more years of chaos and comfort.",
+Encouragement,1,Write a message of encouragement.,Keep going — you’re stronger than you think.,
+Encouragement,2,Write a supportive message to a close friend,"Hey, I know things feel heavy right now, but you’ve gotten through tough times before. I believe in you — always have.",
+Encouragement,3,"Write an encouragement message to a friend who is feeling overwhelmed during graduate school application season, expressing support and pride.","Don’t let the grad school apps wear you down — you’ve worked so hard, and it shows. I’m proud of you no matter the outcome. Just keep showing up.",
+Encouragement,1,Write a message of encouragement.,"You’ve got this. Take it one step, one page, one day at a time.",
+Encouragement,2,Write an encouraging message to your younger brother.,You’re smarter than you give yourself credit for. Don’t let this exam shake you — I know you’ll pull through.,
+Encouragement,3,"Write an encouragement message to your younger brother who has been staying up late preparing for the SAT, recognizing his hard work and determination.","I know you’ve been staying up late studying for the SAT, and it’s tough. But I see your effort, and I know it’ll pay off. Proud of your discipline and drive.",
+Encouragement,1,Write a message of encouragement.,Every setback is just a setup for a stronger comeback. Hang in there.,
+Encouragement,2,Write a supportive message to a colleague,"You’ve handled this project with such grace, even under pressure. I admire your work ethic — keep going, you’ve got this.",
+Encouragement,3,Write an encouraging message to a colleague who is leading a team for the first time and feels discouraged due to project delays. Acknowledge their leadership.,"I know leading your first team project hasn’t been easy, and delays happen — but your leadership is clear. The way you keep everyone grounded is impressive. Keep believing in yourself.",
+Encouragement,1,Write a message of encouragement.,It’s okay to not be okay. Take your time. You’re doing better than you think.,
+Encouragement,2,Write an emotionally supportive message from one partner to another,"I know your heart’s been heavy lately, but I want you to know I’m here — not to fix it, just to be beside you.",
+Encouragement,3,"Write a heartfelt message to your girlfriend Lesley, who recently lost her job and feels down. Emphasize her value beyond work and offer reassurance.","Lesley, I know losing that job shook your confidence, but please remember — your worth is not defined by a title. You’re talented, resilient, and so loved. I’m here, always.",
+Encouragement,1,Write a message of encouragement.,Progress isn’t always loud. Even small steps matter — keep moving.,
+Encouragement,2,Write a supportive message to a roommate,"I’ve seen you push yourself every single day, even when no one’s watching. You’re doing great — don’t stop now.",
+Encouragement,3,Write a motivating message to a roommate who has committed to running every morning for 30 days and is currently on day 18. Acknowledge consistency and growth.,"Day 18 of your morning runs — and I’m seriously impressed. Rain or shine, you show up. Keep going, your commitment is already changing you.",
+Thank you,1,Write a thank-you message.,Thank you so much — I truly appreciate it.,
+Thank you,2,Write a thank-you note to a friend,Thank you for always being there. Your friendship means the world to me.,
+Thank you,3,"Write a thank-you message to a friend who helped you move, including both physical help and emotional support.","Thanks so much for helping me move last weekend! I couldn’t have done it without you — from lifting boxes to making me laugh through the chaos, you were a lifesaver.",
+Thank you,1,Write a thank-you message.,Thank you for your guidance and support — it made a difference.,
+Thank you,2,Write a polite thank-you message to your professor,"Thank you, Professor Lin, for your insightful feedback and encouragement this semester. I’ve learned so much from your class.",
+Thank you,3,Write a thank-you note to a professor who wrote your graduate school recommendation letter. Include gratitude for their time and belief in you.,"Professor Lin, thank you so much for writing my grad school recommendation letter. Your support and kind words truly meant a lot to me, and I’m incredibly grateful for your time and trust.",
+Thank you,1,Write a thank-you message.,Thank you for your help — I really appreciate your support.,
+Thank you,2,Write a casual thank-you message to a coworker,Thanks for covering my shift yesterday — you really saved me. I owe you one!,
+Thank you,3,Write a thank-you note to a colleague named Maya who completed your client report so you could attend your sister’s wedding.,"Thank you so much, Maya, for finishing up the client report so I could attend my sister’s wedding. Your help meant more than you know — I’m lucky to have you as a teammate.",
+Thank you,1,Write a thank-you message.,Thank you for being kind when I needed it most.,
+Thank you,2,Write a heartfelt thank-you message to your partner,Thank you for holding me through the hard days and cheering me on during the good ones. You’re everything.,
+Thank you,3,Write a thank-you note to your girlfriend Lesley who supported you through emotional struggles after losing your job.,"Lesley, thank you for being my rock when I felt lost after the layoff. You never pushed, never judged — just stayed, listened, and believed in me when I couldn’t. That meant everything.",
+Thank you,1,Write a general thank-you message,Thanks so much for letting me stay — your kindness meant a lot!,
+Thank you,2,Write a thank-you note to your college friend Emily.,"Thank you for hosting me, Emily! I really appreciated the comfy couch, local food recs, and your warm welcome — felt more like a friend’s place than just a stopover.",
+Thank you,3,"Write a detailed thank-you note to your friend Emily who hosted you during a weekend trip to Austin. Mention the airport pickup, tacos, a late-night balcony talk, and her friendly dog.","Emily, thank you again for letting me crash at your place in Austin last weekend.
+The fact that you picked me up at the airport after a delayed flight and still had tacos ready? Legendary. I’ll never forget our midnight balcony chat or how your dog insisted I was part of the pack by day two.
+You made me feel completely at home. Let me know when I can return the favor.",
+Thank you,1,Write a short thank-you note for someone,Thank you for your help — I really appreciated your quick reply!,
+Thank you,2,Write a thank-you message to a Reddit user,Hey @SketchyLatte — just wanted to say thanks for your super helpful comment on my post! Your step-by-step tips totally saved me.,
+Thank you,3,Write a funny and grateful thank-you note to a Reddit user (@SketchyLatte) who helped you debug a Python issue. Mention how specific advice like “rename the folder” worked and express how much it helped you meet your deadline.,"Hey @SketchyLatte, you absolute hero.
+I followed your instructions for debugging the Python script (even the weird one about renaming the folder — genius), and it finally worked after days of frustration.
+I seriously can’t thank you enough. You saved my deadline and probably my sanity. Hope good karma floods your inbox.",
+Thank you,1,Write a simple thank-you note,Thank you for taking such great care of me — I really appreciate it.,
+Thank you,2,Write a thank-you note to your family doctor Dr. Nguyen,"Dr. Nguyen, thank you for always listening with patience and never rushing our appointments. You’ve made health feel a little less scary.",
+Thank you,3,"Write a sincere thank-you message to Dr. Nguyen, who helped you through a health scare involving chest pain. Acknowledge her calm manner, clear explanations, and follow-up care.","Dr. Nguyen — I just wanted to say thank you again for what you did last winter.
+When I came in panicked about those chest pains, you stayed calm, explained everything step by step, and followed up even after I left the clinic.
+You didn’t just treat the symptoms — you treated the person. That kind of care stays with people. It certainly stayed with me.",
+Anniversary,1,Write a general message to celebrate a friendship anniversary,Happy friendship anniversary! Grateful for all the memories we’ve made — and the many more ahead.,
+Anniversary,2,Write a fun and nostalgic friendship anniversary message to your former high school desk mate Lila,"Happy anniversary, Lila! From high school desks to adult chaos, our friendship has survived exams, breakups, and about 2,000 inside jokes. I wouldn’t trade it for anything.",
+Anniversary,3,"Write a touching 10th anniversary message to your best friend Lila, recalling how you met in chemistry class, grew up together through school and life transitions, and still remain close. ","Lila, can you believe it’s been 10 years since we met over that broken stapler in Chem class?
+We’ve gone from doodling in notebooks to crying over job applications, from sharing dorm noodles to sharing grown-up fears.
+You’ve seen me at my best and absolutely worst, and you stayed anyway. That’s not just friendship — that’s family.
+Happy 10th friendship anniversary. I love you more than our shared playlist and late-night bubble tea combined.",
+Anniversary,1,"Write a fun, general message celebrating the anniversary","Happy roommate-versary! Thanks for sharing space, snacks, and sanity.",
+Anniversary,2,Write a light-hearted and affectionate anniversary message to your college roommate Kevin,"Happy roommate anniversary, Kevin! From your questionable cooking to our 2 a.m. hallway talks, living with you has been chaotic in the best way. Wouldn’t trade it for anything.",
+Anniversary,3,"Write a personal and funny roommate anniversary message to your friend Kevin, mentioning details like their shared apartment “4B,” unboxing the air fryer first, and memories like kitchen cleaning music, failed rice attempts, and sticky notes with jokes. ","Kevin, I can’t believe it’s been a whole year since we moved into 4B — still remember unboxing the air fryer before unpacking literally anything else.
+From blasting music while cleaning the kitchen to watching you burn three kinds of rice, life with you has been messy, hilarious, and unexpectedly comforting.
+Thanks for being the kind of roommate who leaves sticky notes with dumb jokes and makes the apartment feel like home. Happy roommate-versary, legend.",
+Encouragement,1,Write a general encouragement message,It’s okay to not have it all figured out. One step at a time — you’re doing just fine.,
+Encouragement,2,Write an encouragement message to your old classmate Marcus,"Hey Marcus, I know it’s scary not knowing what’s next, but you’ve always landed on your feet. You’ve got grit, heart, and a mind that doesn’t quit. I believe in you.",
+Encouragement,3,"Write an encouragement message to your friend Marcus, who took a gap year unexpectedly and feels lost while watching others move ahead. Include a memory about him teaching music to children instead of following a traditional path.","Marcus, I know this gap year wasn’t your plan — and seeing friends land jobs while you’re figuring things out can feel isolating. But please remember: this pause isn’t failure, it’s recalibration.
+You’ve never been afraid to choose your own path — like when you dropped that finance internship for a summer teaching music to kids. That took guts. You’ll find your way again. And I’ll be right here, cheering for you.",
+Encouragement,1,Write a general encouragement message,"Healing takes time, and that’s okay. You’re not broken — just becoming someone even stronger.",
+Encouragement,2,Write a comforting message to your best friend Tara,"Hey Tara, I know it hurts right now, but I’ve seen your strength before — and I know you’ll find your light again. You’re not alone in this.",
+Encouragement,3,"Write a deep and emotional encouragement message to your best friend Tara, who just ended a 3-year relationship. Mention specific memories like a shared playlist and her solo trip to Spain after a hard time.","Tara, I know walking away wasn’t easy — not after three years, two cities, and that playlist you made together.
+But I also know you — the girl who once backpacked solo across Spain after crying on the plane. You’re brave even when your heart’s breaking.
+You loved deeply, and now you’re letting go. That takes more courage than anyone gives credit for. Take your time. I’m here, every step.",
